@@ -2,7 +2,7 @@
 So I'm guessing you've been hearing a bit about watsonx. Well...now you can build your very own app with it🙌 (I know...crazy right?!). In this tutorial you'll learn how to build your own LLM powered Streamlit with the IBMGen library.  
 
 ## See it live and in action 📺
-[![Tutorial](https://i.imgur.com/qBoUX8m.jpg)](https://youtu.be/u8vQyTzNGVY 'Tutorial')
+<WIP>
 
 # Startup 🚀
 1. Create a virtual environment `python -m venv watxonx`
